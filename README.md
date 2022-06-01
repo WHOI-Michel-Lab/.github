@@ -1,1 +1,4 @@
-# .github
+# The Michel Lab
+Located in the Department of Applied Ocean Physics and Engineering at the Woods Hole Oceanographic Institution, the Michel Lab is focused on developing novel technologies for *in situ* observation of dissolved gases, microplastics, nutrients, and other nearly-invisible biogeochemical tracers. This organization is a collection of archival and current projects, and largely comprises software tools we use internally to parse data from our instruments and related sensing platforms, in addition to cruise/deployment/mission specific data analysis code.
+
+Several related projects can be found in [this related organization](https://github.com/expeditionary-robotics) started by grad students Victoria Preston and Genevieve Flaspohler on expeditionary robotics, artificial intelligence, and machine learning.
